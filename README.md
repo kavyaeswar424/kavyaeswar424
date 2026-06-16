@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kavyaeswar424
-- 👀 I’m interested in coding and solving problems
-- 🌱 I’m currently learning html,java and css
+- 👀 I’m interested in coding and simplifying problems
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kavya.eswar04@gmail.com
 
